@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Business Insights 360**
 
 **Author:** Shubham Prasad  
@@ -129,3 +130,6 @@ For any questions or feedback, feel free to reach out:
 - **Email:** [Your Email](shubhamprasad7777@gmail.com)  
 
 
+=======
+# Business-Insight-360
+>>>>>>> 772639e9682e47532138b5b97fc4b31d3d4859a5
