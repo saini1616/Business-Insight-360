@@ -111,11 +111,5 @@ The dashboard incorporates:
 - Identified actionable insights for recovering sales in the **Latin American market**.  
 - Improved company agility and decision-making with a comprehensive dashboard.  
 
----
-
-## 👤 **Contact**  
-For any questions or feedback, feel free to reach out:  
-- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/saini-guha-roy-5364ab26b/)  
-- **Email:** [Your Email](sainiguharoy25@gmail.com)  
 
 
