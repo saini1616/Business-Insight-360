@@ -4,12 +4,6 @@
 **Author:** Saini Guha Roy  
 **Project Type:** Power BI Dashboard  
 
----
- - **Bussiness Insight 360 Release Link:** [Power BI File](https://github.com/shubhamprasad07/Business-Insight-360/releases/tag/v1)
- - **Live Report Link:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWMwZTY3YjAtY2M4Ny00Mzc3LThlNjYtZmQxMTE1MWU1MmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
----
-
 ## 🖥️ **About the Project**  
 **Business Insights 360** is a comprehensive Power BI dashboard designed for **AtliQ Hardware**, a leading manufacturer of PC parts and accessories, including mice, keyboards, Wi-Fi devices, desktops, and laptops.  
 
@@ -112,11 +106,6 @@ The dashboard incorporates:
 
 ---
 
-## 🔗 **Links**
----
-- **Live Report Link:** [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWMwZTY3YjAtY2M4Ny00Mzc3LThlNjYtZmQxMTE1MWU1MmMyIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
----
-
 ## 📈 **Outcome**  
 - Enhanced **transparency** with clear insights into finance, sales, and operations.  
 - Identified actionable insights for recovering sales in the **Latin American market**.  
@@ -126,10 +115,7 @@ The dashboard incorporates:
 
 ## 👤 **Contact**  
 For any questions or feedback, feel free to reach out:  
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/07shubhamprasad)  
-- **Email:** [Your Email](shubhamprasad7777@gmail.com)  
+- **LinkedIn:** [Your Profile](https://www.linkedin.com/in/saini-guha-roy-5364ab26b/)  
+- **Email:** [Your Email](sainiguharoy25@gmail.com)  
 
 
-=======
-# Business-Insight-360
->>>>>>> 772639e9682e47532138b5b97fc4b31d3d4859a5
