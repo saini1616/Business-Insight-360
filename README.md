@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # **Business Insights 360**
 
-**Author:** Shubham Prasad  
+**Author:** Saini Guha Roy  
 **Project Type:** Power BI Dashboard  
 
 ---
